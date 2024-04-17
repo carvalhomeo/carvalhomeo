@@ -38,7 +38,7 @@ I'm Marcel Carvalho, a Fullstack developer from 🇵🇹 Lisbon, Portugal.
 <div>
     <div>
         <h4>
-        <img src="/favicon-32x32.png" 
+        <img src="/xfiles.png" 
         width="26px" alt="nextjs" title="nextjs" align="center" />
         xFiles - file uploading and sharing app</h4>
         <div>
