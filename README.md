@@ -23,7 +23,7 @@ I'm Marcel Carvalho, a Fullstack developer from 🇵🇹 Lisbon, Portugal.
 <img align="left" alt="drizzle" width="30px" style="padding-right:10px;" src="https://images.opencollective.com/drizzle-orm/9405e48/logo/256.png" />
 <img align="left" alt="postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="clerk" width="30px" style="padding-right:10px;" src="https://camo.githubusercontent.com/3b900b4e92e96c14c9e00818d9bd3a97d8b9de9344be4f5455113ac3f85eced8/68747470733a2f2f696d616765732e636c65726b2e636f6d2f7374617469632f6c6f676f2d6c696768742d6d6f64652d343030783430302e706e67" />
+<img align="left" alt="clerk" width="30px" style="padding-right:10px;" src="https://images.clerk.com/static/logo-light-mode-400x400.png" />
 <img align="left" alt="okta" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/okta/okta-original.svg" />
 <img align="left" alt="docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
@@ -48,6 +48,7 @@ I'm Marcel Carvalho, a Fullstack developer from 🇵🇹 Lisbon, Portugal.
             <img alt="clerk" title="clerk" src="https://custom-icon-badges.demolab.com/badge/CLERK-white?style=for-the-badge&logo=clerkjs"/>
             <img alt="resend" title="resend" src="https://img.shields.io/badge/RESEND-121212?style=for-the-badge&logo=resend"/>
         </div>
+        <img src="https://imgur.com/a/Rf1Rbxz" />
     </div>
     <div>
         <h4>
