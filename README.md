@@ -38,6 +38,19 @@ I'm Marcel Carvalho, a Fullstack developer from 🇵🇹 Lisbon, Portugal.
 <div>
     <div>
         <h4>
+        <img src="/calendar.png" 
+        width="26px" alt="nextjs" title="nextjs" align="center" />
+        Calendar - schedule and manage events</h4>
+        <div>
+            <img alt="nextjs" title="nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+            <img alt="clerk" title="clerk" src="https://img.shields.io/badge/TAILWINDCSS-white?style=for-the-badge&logo=tailwindcss&color=%230f172a"/>
+            <img alt="prisma" title="prisma" src="https://img.shields.io/badge/PRISMA-121212?style=for-the-badge&logo=prisma"/>
+            <img alt="clerk" title="clerk" src="https://custom-icon-badges.demolab.com/badge/CLERK-white?style=for-the-badge&logo=clerkjs"/>
+            <img alt="resend" title="resend" src="https://img.shields.io/badge/RESEND-121212?style=for-the-badge&logo=resend"/>
+        </div>
+    </div>
+    <div>
+        <h4>
         <img src="/xfiles.png" 
         width="26px" alt="nextjs" title="nextjs" align="center" />
         xFiles - file uploading and sharing app</h4>
@@ -50,20 +63,6 @@ I'm Marcel Carvalho, a Fullstack developer from 🇵🇹 Lisbon, Portugal.
             <img alt="resend" title="resend" src="https://img.shields.io/badge/RESEND-121212?style=for-the-badge&logo=resend"/>
         </div>
         <img src="https://i.imgur.com/V8o1gRb.png" />
-    </div>
-    <div>
-        <h4>
-        <img src="/calendar.png" 
-        width="26px" alt="nextjs" title="nextjs" align="center" />
-        Calendar - schedule and manage events</h4>
-        <div>
-            <img alt="nextjs" title="nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-            <img alt="clerk" title="clerk" src="https://img.shields.io/badge/TAILWINDCSS-white?style=for-the-badge&logo=tailwindcss&color=%230f172a"/>
-            <img alt="uploadthing" title="uploadthing" src="https://custom-icon-badges.demolab.com/badge/UPLOADTHING-red?style=for-the-badge&logo=uploadthing"/>
-            <img alt="drizzle" title="drizzle" src="https://img.shields.io/badge/DRIZZLE-121212?style=for-the-badge&logo=drizzle"/>
-            <img alt="clerk" title="clerk" src="https://custom-icon-badges.demolab.com/badge/CLERK-white?style=for-the-badge&logo=clerkjs"/>
-            <img alt="resend" title="resend" src="https://img.shields.io/badge/RESEND-121212?style=for-the-badge&logo=resend"/>
-        </div>
     </div>
 </div>
 
