@@ -48,7 +48,7 @@ I'm Marcel Carvalho, a Fullstack developer from 🇵🇹 Lisbon, Portugal.
             <img alt="clerk" title="clerk" src="https://custom-icon-badges.demolab.com/badge/CLERK-white?style=for-the-badge&logo=clerkjs"/>
             <img alt="resend" title="resend" src="https://img.shields.io/badge/RESEND-121212?style=for-the-badge&logo=resend"/>
         </div>
-        <img src="https://imgur.com/a/Rf1Rbxz" />
+        <img src="https://i.imgur.com/IWwkvoe.png" />
     </div>
     <div>
         <h4>
